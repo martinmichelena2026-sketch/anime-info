@@ -1,0 +1,9 @@
+{
+  "id": "anime-info",
+  "name": "Anime Info",
+  "version": "1.0.0",
+  "author": "martinmichelena2026-sketch",
+  "description": "Fichas de anime con póster, sinopsis y puntaje.",
+  "contentRating": "all",
+  "searchUrl": "https://anime-info.martinmichelena20.workers.dev/?q={q}"
+}
